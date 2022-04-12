@@ -1,0 +1,15 @@
+{
+    "webpagecontent" :[ {
+        "id" : "1",
+        "Title" : "Welcome to our World",
+        "seapath" : "../Assets/images/sea.jpg",
+        "Discribtion" : "Discover the unique atmosphere of our private residential club communities. Once experienced. Never forgotten. This is classic, comfortable, modern living in nature’s most spectacular settings worldwide. Reassuringly exclusive. Generously welcoming. Find your unique world – a place where families love to be; creating unforgettable moments, together.",
+        "menpath" : "../Assets/images/men.jpg",
+        "himalayas" : "../Assets/images/himalayas.jpg"
+    }
+
+    ]
+
+
+    
+}
